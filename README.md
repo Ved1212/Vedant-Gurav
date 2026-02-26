@@ -8,9 +8,17 @@
 
 
 
-🚀 Full Stack Developer | React.js | Node.js | Spring Boot  
-🎓 B.Tech Computer Science (2025)  
-💡 Passionate about building scalable web applications & AI-driven platforms  
+---
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech Computer Science (2025 Graduate)
+- 💻 Passionate about building scalable Full Stack applications
+- ⚙️ Strong in Backend Architecture & REST API development
+- 🔐 Experience with JWT Authentication & Role-Based Access
+- 🚀 Currently improving System Design & Production-level coding
+- 🌱 Open to Full-Time Opportunities
+  
 
 ---
 
