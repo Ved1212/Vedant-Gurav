@@ -1,5 +1,12 @@
 
- Hi, I'm Vedant Gurav 👋  
+<h1 align="center">Hi 👋, I'm Vedant Gurav</h1>
+<h3 align="center">Full Stack Developer | React.js • Node.js • Spring Boot</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vedant-Gurav&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+
 
 🚀 Full Stack Developer | React.js | Node.js | Spring Boot  
 🎓 B.Tech Computer Science (2025)  
